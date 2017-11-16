@@ -1,3 +1,5 @@
+package Practice;
+
 public class Picture {
     public static void main(String args[]) {
 
@@ -18,5 +20,6 @@ public class Picture {
         System.out.println("  ██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█");
         System.out.println("    ████████████       █████████████████");
     }
+
 }
 
