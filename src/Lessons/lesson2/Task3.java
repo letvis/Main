@@ -27,7 +27,7 @@ public class Task3 {
         int Возраст = scanner.nextInt();
         String str3 = scanner.next();
 
-        String[] columnnames = {
+        /*String[] columnnames = {
                 "1",
                 "2"};
         String[][] data = {
@@ -37,13 +37,13 @@ public class Task3 {
                 {ANSI_BLUE+str3+ANSI_RESET+hobby}
         };
 
-        System.out.println( data);
+        System.out.println( data);*/
 
 
 
-       // System.out.println(ANSI_BLUE+str+ANSI_RESET +name);
-       // System.out.println(ANSI_BLUE+str2+ANSI_RESET+city);
-       // System.out.println(ANSI_BLUE+Возраст+ANSI_RESET+age);
-       // System.out.println(ANSI_BLUE+str3+ANSI_RESET+hobby);
+        System.out.println(ANSI_BLUE+str+ANSI_RESET +name);
+        System.out.println(ANSI_BLUE+str2+ANSI_RESET+city);
+        System.out.println(ANSI_BLUE+Возраст+ANSI_RESET+age);
+        System.out.println(ANSI_BLUE+str3+ANSI_RESET+hobby);
     }
 }
